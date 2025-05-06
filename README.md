@@ -14,4 +14,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lsy090601&" alt="lsy090601" /></p>
 
+https://img.shields.io/badge/Tech%20Seoyoung's velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://[velog.io/@int_1sy]
+
 
