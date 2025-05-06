@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Welcome%20to%20Seoyoung's%20Github💗%20%&fontColor='#000000')
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Welcome%20to%20my%20Github💗%20%&fontColor='#000000')
 
 <h4 align="left">Languages and Tools:</h4>
 
