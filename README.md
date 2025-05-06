@@ -13,6 +13,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lsy090601&show_icons=true&locale=en" alt="lsy090601" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lsy090601&" alt="lsy090601" /></p>
-<a href="https://www.instagram.com/int_1sy/"><img src="https://img.shields.io/badge/#000000?style=flat-square&logo=simpleiconsinstagram&logoColor=white&link=https://www.instagram.com/int_1sy/"/></a>&nbsp
+<a href="https://www.instagram.com/int_1sy/"><img src="https://img.shields.io/badge/_my instagram!-#000000?style=flat-square&logo=simpleiconsinstagram&logoColor=white&link=https://www.instagram.com/int_1sy/"/></a>&nbsp
+
 
 
