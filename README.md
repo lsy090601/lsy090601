@@ -9,9 +9,6 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsy090601&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lsy090601&show_icons=true&locale=en" alt="lsy090601" /></p>
-
-
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "center"> 
