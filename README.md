@@ -8,7 +8,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 
 
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsy090601&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lsy090601&show_icons=true&locale=en" alt="lsy090601" /></p>
 
@@ -35,6 +35,7 @@
     </div><br>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsy090601&layout=compact)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsy090601&layout=compact)
 
 <br>
