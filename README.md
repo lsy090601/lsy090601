@@ -2,14 +2,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Welcome%20to%20my%20Github💗%20%&fontColor='#000000')
 
-<div style="text-align: center;"> 
+<div style="text-align:left;"> 
+    <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 반가워요!👋👋 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 성장하는 개발자 꿈나무 입니다🌱🌱</li><li> 부족한 점 많아도 귀엽게 봐주세요💗 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 성장하는 개발자 꿈나무 입니다🌱🌱</li><li> 부족한 점 많아도 귀엽게 봐주세요💗 </div> </div>
 <br>
 <br>
-  <div align ="center">
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsy090601&layout=compact)
-  </div>
+
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
