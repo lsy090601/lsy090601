@@ -16,7 +16,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "center"> 
       <a href="https://www.instagram.com/_seoy9/" target="_blank"><img src="https://img.shields.io/badge/instagram-FFDCDC?style=for-the-badge&logo=Instargram&logoColor=black"/></a>
-         <a href=mailto:s2527@e-mirim.hs.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:s2527@e-mirim.hs.kr"> </a>
+         <a href=mailto:s2527@e-mirim.hs.kr> <img src="https://img.shields.io/badge/Gmail-FFD6BA?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:s2527@e-mirim.hs.kr"> </a>
           </div><br>
     <div align= "center">  </div> 
     <h2 align="center">📧 Email 📧</h2>
