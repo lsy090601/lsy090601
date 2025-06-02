@@ -18,8 +18,7 @@
       <a href=https://www.instagram.com/_seoy9/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instargram&logoColor==white&link=https://www.instagram.com/_seoy9/"/></a>
           </div><br>
     <div align= "center">  </div>
-
-    <h2 align="center">📧 Email 📧</h2>
+<h2 align="center">📧 Email 📧</h2>
 <p align="center">
   <Strong>s2527@e-mirim.hs.kr</Strong>
 </p><br>
