@@ -15,8 +15,7 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "center"> 
-      <a href=https://www.instagram.com/_seo9/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instargram&logoColor==white&link=https://www.instagram.com/_seoy9/"/></a>
-         <a href=https://velog.io/@int_1sy/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@int_1sy/posts"> </a>
+      <a href=https://www.instagram.com/_seoy9/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instargram&logoColor==white&link=https://www.instagram.com/_seoy9/"/></a>
           </div><br>
     <div align= "center">  </div>
 
