@@ -5,7 +5,7 @@
 <div style="text-align:left;"> 
     <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 반가워요!👋👋 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 성장하는 개발자 꿈나무 입니다🌱🌱</li> </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"><<p> 성장하는 개발자 꿈나무 입니다🌱🌱</p>  </div>
 <br>
 <br>
 
@@ -35,3 +35,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lsy090601&show_icons=true&locale=en" alt="lsy090601" /></p>
 
 <br>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cuzurmyhabit&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/lsy090601"
+  width="600"
+  height="300"
+/>
+</a>
