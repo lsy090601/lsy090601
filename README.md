@@ -28,6 +28,8 @@
 ### 📬 Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_seoy9/)  
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@int_1sy/posts)  
+📧 s2527@e-mirim.hs.kr
 
 ---
 
