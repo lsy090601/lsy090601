@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20my%20GitHub💗&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Welcome%20to%20my%20Github💗%20%&fontColor='#000000'&background-coler='#ffffff')
 
 <div align="center">
 
@@ -28,7 +28,6 @@
 ### 📬 Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_seoy9/)  
-📧 s2527@e-mirim.hs.kr
 
 ---
 
