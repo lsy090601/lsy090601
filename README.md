@@ -1,4 +1,3 @@
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Welcome%20to%20my%20Github💗%20%&fontColor='#000000'&background-coler='#ffffff')
 
 <div align="center">
