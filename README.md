@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Welcome%20to%20my%20Github💗%20%&fontColor='#000000'&background-coler='#ffffff')
 
 <div align="center">
-
-### 👋 반가워요! 저는 성장하는 개발자 , 이서영입니다 🌱
-
-
 ---
 
 ### ✨ Tech Stack ✨
